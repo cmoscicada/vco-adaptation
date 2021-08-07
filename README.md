@@ -1,5 +1,5 @@
 # vco-adpatation
 PYNQ-Z1 adaptation
 
-PYNQ image v2.6 
+Base PYNQ image version: v2.6 
   
