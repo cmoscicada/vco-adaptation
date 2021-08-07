@@ -13,3 +13,5 @@ Base PYNQ image version: v2.6
 # TODO List
 
 1. make frequency counter (verilog) [reference #1: https://youtu.be/_YGPF72xSHA] 
+
+2. make a ltc6990.py 
